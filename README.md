@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @CLaSLoVe
-- 👀 I’m interested in Data modeling.
-- 🌱 I’m currently learning convex optimization.
-- 💞️ I’m looking to collaborate on interesting programs
-- 📫 How to reach me comment me maybe.
+# 👋 Hi, I’m @CLaSLoVe
 
-<!---
-CLaSLoVe/CLaSLoVe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎉 Welcome to my GitHub profile! I am passionate about **Human-Computer Interaction (HCI)** and enjoy exploring this fascinating field. 🚀
+
+🌐 You can learn more about me and my work on my [personal portfolio](https://claslove.github.io/portfolio/).
+
+## 🌟 Quote
+> "Don't worry, be happy" 😃
+
+## 📖 About Me
+I have a strong interest in AI-assisted human-computer interaction and multimodal information perception. With a background in Computer Science and Mechatronic Engineering, I am committed to building smarter human-computer interaction devices and algorithms.
+
+---
+
+✨ Thank you for visiting my profile! ✨
