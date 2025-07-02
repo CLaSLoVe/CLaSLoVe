@@ -2,7 +2,7 @@
 
 🎉 Welcome to my GitHub profile! I am passionate about **Human-Computer Interaction (HCI)** and enjoy exploring this fascinating field. 🚀
 
-🌐 You can learn more about me and my work on my [personal portfolio](https://claslove.github.io/portfolio/).
+🌐 You can learn more about me and my work on my [personal portfolio](https://claslove.github.io/).
 
 ## 🌟 Quote
 > "Don't worry, be happy" 😃
