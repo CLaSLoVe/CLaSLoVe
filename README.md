@@ -10,7 +10,12 @@
 ## 📖 About Me
 I have a strong interest in AI-assisted human-computer interaction and multimodal information perception. With a background in Computer Science and Mechatronic Engineering, I am committed to building smarter human-computer interaction devices and algorithms.
 
-In addition, I also enjoy conducting some meaningless but interesting research (e.g. [von-Neumann-elephant](https://github.com/CLaSLoVe/von-Neumann-elephant)). 🐘
+In addition, I enjoy conducting some meaningless but interesting research (e.g. [von-Neumann-elephant](https://github.com/CLaSLoVe/von-Neumann-elephant)). 🐘
+
+I'm also a big fan of MacOS. Some tools that I think Mac should include: 
+- [MathTeX-Vectorizer]() to achieve Latex to SVG.
+- [HoldQ](https://github.com/CLaSLoVe/HoldQ) to avoid mis-quitting with ⌘Q.
+- [BulletPaste](https://github.com/CLaSLoVe/BulletPaste) to achieve sequencial pasting.
 
 ---
 
