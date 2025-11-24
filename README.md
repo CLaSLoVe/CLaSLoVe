@@ -1,22 +1,22 @@
-# 👋 Hi, I’m @CLaSLoVe
+# 👋 Hi, I’m @CLaSLoVe  
 
-🎉 Welcome to my GitHub profile! I am passionate about **Human-Computer Interaction (HCI)** and enjoy exploring this fascinating field. 🚀
-
-🌐 You can learn more about me and my work on my [personal portfolio](https://claslove.github.io/).
-
-## 🌟 Quote
 > "Don't worry, be happy" 😃
 
-## 📖 About Me
-I have a strong interest in AI-assisted human-computer interaction and multimodal information perception. With a background in Computer Science and Mechatronic Engineering, I am committed to building smarter human-computer interaction devices and algorithms.
+🌐 My homepage: [claslove.github.io](https://claslove.github.io/)
 
-In addition, I enjoy conducting some meaningless but interesting research (e.g. [von-Neumann-elephant](https://github.com/CLaSLoVe/von-Neumann-elephant)). 🐘
+- My research interests include **Human–Computer Interaction (2020–)** and **AI for Science (2025–)**.  
+- My hobbies are composing music and working out. I am also the lead guitarist of [**Tokamak Disruption**](https://tokamak-disruption.netlify.app/), an alternative metal band.
+- I also enjoy conducting some meaningless but interesting research (e.g. [von-Neumann-elephant](https://github.com/CLaSLoVe/von-Neumann-elephant)). 🐘
 
-Some tools that I think Mac should include: 
-- [MathTeX-Vectorizer]() to achieve Latex to SVG.
-- [HoldQ](https://github.com/CLaSLoVe/HoldQ) to avoid mis-quitting with ⌘Q.
-- [BulletPaste](https://github.com/CLaSLoVe/BulletPaste) to achieve sequencial pasting.
+✨ Thank you for visiting my profile! ✨
 
 ---
 
-✨ Thank you for visiting my profile! ✨
+Some small tools I think macOS should ship with:  
+
+- [`MathTeX-Vectorizer`](https://github.com/CLaSLoVe/MathTeX-Vectorizer) – Convert LaTeX math to SVG for scalable formulas.  
+- [`HoldQ`](https://github.com/CLaSLoVe/HoldQ) – Prevent accidental quitting with ⌘Q by adding a “hold to quit” interaction.  
+- [`BulletPaste`](https://github.com/CLaSLoVe/BulletPaste) – Sequential pasting for smoother table-filling.  
+
+
+
